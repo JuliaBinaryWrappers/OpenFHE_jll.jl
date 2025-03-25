@@ -1,6 +1,6 @@
 name = "OpenFHE_jll"
 uuid = "a2687184-f17b-54bc-b2bb-b849352af807"
-version = "1.2.3+1"
+version = "1.2.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,7 +10,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 
 [compat]
-JLLWrappers = "1.2.0"
-julia = "1.6"
+JLLWrappers = "1.7.0"
+julia = "1.10"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
