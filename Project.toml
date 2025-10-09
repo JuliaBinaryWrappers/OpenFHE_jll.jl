@@ -1,6 +1,6 @@
 name = "OpenFHE_jll"
 uuid = "a2687184-f17b-54bc-b2bb-b849352af807"
-version = "1.2.4+0"
+version = "1.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

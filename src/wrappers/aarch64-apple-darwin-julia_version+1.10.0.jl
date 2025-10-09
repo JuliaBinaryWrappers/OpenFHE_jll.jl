@@ -10,19 +10,19 @@ function __init__()
     JLLWrappers.@generate_init_header(LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libOPENFHEbinfhe,
-        "lib/libOPENFHEbinfhe.1.2.4.dylib",
+        "lib/libOPENFHEbinfhe.1.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libOPENFHEcore,
-        "lib/libOPENFHEcore.1.2.4.dylib",
+        "lib/libOPENFHEcore.1.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libOPENFHEpke,
-        "lib/libOPENFHEpke.1.2.4.dylib",
+        "lib/libOPENFHEpke.1.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
