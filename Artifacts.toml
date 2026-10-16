@@ -1,93 +1,93 @@
 [[OpenFHE]]
 arch = "aarch64"
-git-tree-sha1 = "67f127dff157def18233102ff3d1fa4d23bb08dc"
+git-tree-sha1 = "db5cf55dfca9d0f6e7dc6945066642341cdb7701"
 os = "macos"
 
     [[OpenFHE.download]]
-    sha256 = "114bf50d38243b7ddf36e05fb8f17b9958b6c8b22dc08c3b93d36e227cd7ab24"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "be1d715a5ca22a865d9b6e0436883ecbb0a0be54113f907ef24ab5ddb62442a2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.aarch64-apple-darwin.tar.gz"
 [[OpenFHE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da08b22508f0437b3f65fe861a93017a4fd7b1ad"
+git-tree-sha1 = "a1e657eabf440821622d4f6151d6b7a2d47794f9"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE.download]]
-    sha256 = "3a84c3fe5fd265bc904bd4a4421f31ceb5e8616036627ed650af7992db6f43c5"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2c2ab70f7ef82525ca8f1003b251aab9322b56b118679831ab029061f185fe8b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE]]
 arch = "aarch64"
-git-tree-sha1 = "28a6d2e9a0b893e97989d9c966708b726d321fbe"
+git-tree-sha1 = "580f2654421b8260cc2addcaf4fd0fda6d86e40f"
 os = "freebsd"
 
     [[OpenFHE.download]]
-    sha256 = "bfae3862535cbe49c57d2396c867ef80ab817273ab1785c0d3f7542499c953f1"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "bc85aab04103a1eefe3cf42ee1b9f6bd5222c850cde121e4a7cb3e2a3517f9f5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.aarch64-unknown-freebsd.tar.gz"
 [[OpenFHE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f6980a6d7b71bdfabc0d125c1d71cf9de2ffa0c1"
+git-tree-sha1 = "21b51b7fbefb080137a7f6607dc5b4cca51372ff"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE.download]]
-    sha256 = "e01692a124428a2b83c81c072a6bbae9d4f374a304b7ae79de7705b47fcbe86a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "779cbf7fc37197fc7aeb170c66533aa4f005a2a51f92e33a15bd425d03d0ebeb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[OpenFHE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b7661be8c22db169edfcdb83889eac6e32d0c88"
+git-tree-sha1 = "c34d46aaff3585e657a69dfada4e6db7dd3efc7f"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE.download]]
-    sha256 = "a741b7b6f13cd755dd88ff61073b590e4306d7c73964abd43859e6db9dcca75d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "4c50046f58b8c57070d2b894ae48e3a9986f58e36c083119b267729c7655b7cc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[OpenFHE]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eadf72db774397c9c0372e4ee403ea4fc2d51f66"
+git-tree-sha1 = "55c8319d6da5baf0353e7c3c61780f6183205fc9"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE.download]]
-    sha256 = "1871a5df3f3fcad0f00112d493a1ce0199ecdc538210e0ca2725886237dad452"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a86d59cc4b6ee7065bc2449455153c027de94344924f44c5699e32e93493157e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE]]
 arch = "x86_64"
-git-tree-sha1 = "43ec4570d6829622cdb20f58f1cf8ad0a040535c"
+git-tree-sha1 = "6b4695833f511b779d70219df3feacaeea246f2a"
 os = "macos"
 
     [[OpenFHE.download]]
-    sha256 = "e033ade8bee367037d8d7f8c37b301f3ba63c822a74f5a5dad9359b3ba39e0ef"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "a3502f56ae12409868bcde9bdd698e4ff08f43154c8d77c0273d86070b82957f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.x86_64-apple-darwin.tar.gz"
 [[OpenFHE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db8a792c53329c76a0a21fcf384cc7641c250c5e"
+git-tree-sha1 = "db203c97c134c03201b49a743852415387c0a807"
 libc = "glibc"
 os = "linux"
 
     [[OpenFHE.download]]
-    sha256 = "dd4d88bbc83c87b91339622a00d9138d870ca3330c55fe48809ae323f43a5a3b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "96344633952aa1f27473c1a4c3243f707c1c1ed1ec3e7cc3aaada2ca98717f28"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[OpenFHE]]
 arch = "x86_64"
-git-tree-sha1 = "abb01959e11c575819a86db5077f7dafb221f251"
+git-tree-sha1 = "9cd30c8a65baba8c9106e87269cf09b39bf4ea2e"
 os = "freebsd"
 
     [[OpenFHE.download]]
-    sha256 = "b2778b73124e76666622b82fa725ad2624d82598f948ce46d77ac3511fbd2985"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "020fc53dcfc50efc3b597188157a2bc8097191812bc1a2c99971f71fd417c75b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.x86_64-unknown-freebsd.tar.gz"
 [[OpenFHE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bba3d650769a1089c08ad2a88bc526888635780a"
+git-tree-sha1 = "290776d2f557006147842f8f2856317a7031c733"
 os = "windows"
 
     [[OpenFHE.download]]
-    sha256 = "c09ddda7b678217fa13f584c61a03bc06c5634418be1df0fddcbafab4f8929a1"
-    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.0+0/OpenFHE.v1.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b3169f7c4ae60d39dd67830f576cd97998145aebc4ebc3a0fba5596d80367206"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFHE_jll.jl/releases/download/OpenFHE-v1.6.1+0/OpenFHE.v1.6.1.x86_64-w64-mingw32-cxx11.tar.gz"
